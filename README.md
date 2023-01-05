@@ -6,7 +6,7 @@
 ## Major: Studied Computer Science
 ## Current Location: Lingen Germany
 
-## Simon
+## Name: Simon Murray
 
-### 49 Years old
+### Age: 49 Years old
 ### Favourite Recipe : Indian
