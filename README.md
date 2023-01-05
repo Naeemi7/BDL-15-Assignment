@@ -1,19 +1,19 @@
 # BDL-15-Assignment
 
-Fullname: **Abdulwase Naeemi**
-Age: **28**
-Profession: **IT Professional**
-Country: **Afghanistan**
-Current Address: **Lingen, Germany**
+Fullname: **Abdulwase Naeemi** <br>
+Age: **28** <br>
+Profession: **IT Professional** <br>
+Country: **Afghanistan** <br>
+Current Address: **Lingen, Germany** <br>
 
-Name: **Simon**
-Age: **49**
-Favorite Recipe: **Indian**
+Name: **Simon** <br>
+Age: **49** <br>
+Favorite Recipe: **Indian** <br>
 
-Name: **Jimwna**
-Age: **48**
-Nationality: **Chilean**
-City: **Santiago**
+Name: **Jimwna** <br>
+Age: **48** <br>
+Nationality: **Chilean** <br>
+City: **Santiago** <br>
 Messagge: **Hi! I have two daughters aged 21 and 13. My cat name is Gigi Amigo in Spanish it means firend bolid eggs**
 
 
